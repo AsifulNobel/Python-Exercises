@@ -1,0 +1,23 @@
+ 1    She Walks In Beauty
+ 2              Lord Byron
+ 3  
+ 4  She walks in beauty, like the night
+ 5     Of cloudless climes and starry skies;
+ 6  And all that’s best of dark and bright
+ 7     Meet in her aspect and her eyes;
+ 8  Thus mellowed to that tender light
+ 9     Which heaven to gaudy day denies.
+10  
+11  One shade the more, one ray the less,
+12     Had half impaired the nameless grace
+13  Which waves in every raven tress,
+14     Or softly lightens o’er her face;
+15  Where thoughts serenely sweet express,
+16     How pure, how dear their dwelling-place.
+17  
+18  And on that cheek, and o’er that brow,
+19     So soft, so calm, yet eloquent,
+20  The smiles that win, the tints that glow,
+21     But tell of days in goodness spent,
+22  A mind at peace with all below,
+23     A heart whose love is innocent!
